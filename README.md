@@ -17,7 +17,4 @@ And more...
 
 ## Contact me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@facundovare-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
-
-### cvarelagarcia@gmail.com
-[![Email](https://img.shields.io/badge/English-varelacristian.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](cvarelagarcia@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@CristianVarela-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
