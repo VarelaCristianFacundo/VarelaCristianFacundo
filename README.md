@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is Cristian Varela
+# 👋 Hi there. My name is Cristian Varela
 
 ### Freelance full-stack
 
@@ -17,8 +17,8 @@ And more...
 
 ## Contact me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
+[![Instagram](https://img.shields.io/badge/Instagram-@facundovare-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
 
 ### cvarelagarcia@gmail.com
 
-[![Email](https://img.shields.io/badge/English-antonioleiva.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](cvarelagarcia@gmail.com)
+[![Email](https://img.shields.io/badge/English-varelacristian.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](cvarelagarcia@gmail.com)
