@@ -1,4 +1,4 @@
-# ![https://varela-portfolio.vercel.app/](https://github.com/VarelaCristianFacundo/VarelaCristianFacundo/blob/main/facudev_emote.jpg) Hola, mi nombre es Cristian Facundo Varela 👋
+# ![https://varela-portfolio.vercel.app/](https://github.com/VarelaCristianFacundo/VarelaCristianFacundo/blob/main/facudev_emote.png) Hola, mi nombre es Cristian Facundo Varela 👋
 ### Freelance Full-Stack iOS & Android engineer
 
 
