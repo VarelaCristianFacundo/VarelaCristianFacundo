@@ -4,7 +4,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/VarelaCristianFacundo?style=social)
 
-## Skills:
+## Tecnologías:
 ### Frontend:
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]()
@@ -35,6 +35,14 @@
 [![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)]()
 </br>
 
-## Contact me:
+## Encuéntrame en:
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristianfacundovarela/)
 [![Instagram](https://img.shields.io/badge/Instagram-@CristianVarela-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+## Contacto y apoyo:
+[![Email](https://img.shields.io/badge/cvarelagarcia@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cvarelagarcia@gmail.com)
