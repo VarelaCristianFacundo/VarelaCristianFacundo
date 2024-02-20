@@ -1,6 +1,8 @@
 # ![https://varela-portfolio.vercel.app/](https://github.com/VarelaCristianFacundo/VarelaCristianFacundo/blob/main/facudev_emote.png) Hola, mi nombre es Cristian Facundo Varela 👋
 ### Freelance Full-Stack Developer
 
+![https://github.com/varelacristianfacundo](https://github.com/VarelaCristianFacundo/VarelaCristianFacundo/blob/main/facudev_banner.png)
+
 **Soy Desarrollador Full Stack desde hace más de 10 años.**
 
 **En 2022 dejé mi trabajo en una multinacional y fundé [**Boot Coop**](https://bootcoop.io/), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.**
@@ -52,4 +54,4 @@ Desde entonces me he dedicado a especializarme en el desarrollo web y aplicacion
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 ## Contacto y apoyo:
-[![Email](https://img.shields.io/badge/cvarelagarcia@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cvarelagarcia@gmail.com)
+[![Email](https://img.shields.io/badge/cvarelagarcia@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cvarelagarcia@gmail.com)
