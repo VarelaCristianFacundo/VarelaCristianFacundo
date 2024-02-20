@@ -46,7 +46,7 @@ Desde entonces me he dedicado a especializarme en el desarrollo web y aplicacion
 
 ## Encuéntrame en:
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristianfacundovarela/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristianfacundovarela/)
 [![Instagram](https://img.shields.io/badge/Instagram-@CristianVarela-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/facundovare/)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
