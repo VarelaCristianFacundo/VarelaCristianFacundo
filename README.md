@@ -6,7 +6,7 @@
 
 ## Skills:
 ### Frontend:
-[![React](https://img.shields.io/badge/react-%000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]()
 </br>
 ### Backend:
@@ -18,6 +18,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MariaDB](https://img.shields.io/badge/Mariadb-000?style=for-the-badge&logo=mariadb)]()
 </br>
 ### Mobile Development:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -25,16 +26,13 @@
 </br>
 ### Database:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![digital ocean provider](https://img.shields.io/badge/DigitalOcean-0080ff?logo=digitalocean&color=0080ff)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
 ### Otros:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Jquery](https://img.shields.io/badge/Jquery-000?style=for-the-badge&logo=jquery)]()
 [![PHP](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php)]()
 [![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)]()
-[![MySQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql)]()
-[![MariaDB](https://img.shields.io/badge/Mariadb-000?style=for-the-badge&logo=mariadb)]()
 </br>
 
 ## Contact me:
