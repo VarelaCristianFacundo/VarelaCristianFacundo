@@ -5,9 +5,8 @@
 
 **Soy Desarrollador Full Stack desde hace más de 10 años.**
 
-**En 2022 dejé mi trabajo en una multinacional y fundé [**Boot Coop**](https://bootcoop.io/), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.**
 </br>
-Desde entonces me he dedicado a especializarme en el desarrollo web y aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 50 Apps y fundando mi propia startup.
+Me dedico a especializarme en el desarrollo web y aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 30 Apps.
 
 *Me gustaría devolver de alguna manera, todo el conocimiento que la comunidad ha compartido conmigo, de forma gratuita a lo largo de los años.*
 
